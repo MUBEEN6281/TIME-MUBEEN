@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to The Institute of Management and Entrepreneurship
 
 You can use the [editor on GitHub](https://github.com/MUBEEN6281/TIME-MUBEEN/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
